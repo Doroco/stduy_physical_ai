@@ -1,5 +1,7 @@
 Notion 페이지: [Physical AI 학습 로드맵](https://www.notion.so/Physical-AI-2adf8b6477c281cf8780dbce0777354f)
 
+TODO : plugin - SAM 3D model with 2D camera
+
 # Physical AI 학습 로드맵
 
 이 리포지토리는 Physical AI 학습 로드맵에 따라 주차별로 학습한 내용과 관련 코드를 정리하는 공간입니다.
